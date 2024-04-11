@@ -1,0 +1,2507 @@
+[
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 1,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 2,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 3,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 4,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 5,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 6,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 7,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 8,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 10,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 12,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 13,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 14,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "I. YIN OCH YANG",
+        "questionNumber": 15,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 2,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 3,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 4,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 5,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 6,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 7,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 8,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 9,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 10,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 11,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 12,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 13,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "II. WU XING - DE FEM ELEMENTEN",
+        "questionNumber": 14,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 1,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 2,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 3,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 4,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 5,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 6,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 7,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 8,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 9,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET - JINGLUO",
+        "questionNumber": 10,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 1,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 2,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 3,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 4,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 5,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 6,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 7,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 8,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 10,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 11,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 12,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 13,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 14,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 15,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 16,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 17,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 18,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 19,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "III. #(3.2. PATOLOGI) MERIDIANSYSTEMET - JINGLUO  Detta kapitel handlar om patologin i jing mai och qi jing ba mai, dvs. de åtta extraordinära meridinerna. I patologin för jing mai finner man ofta smärta, svullnad, rörelseinskränkningar etc. vilka är allmänna symtom som förekommer utmed alla meridianer. Dessa frågor tar endast upp de specifika symtom som är unika för varje meridian.",
+        "questionNumber": 20,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "IV. ETIOLOGI #(Allmänt)",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "IV. ETIOLOGI #(Allmänt)",
+        "questionNumber": 2,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "IV. ETIOLOGI #(Allmänt)",
+        "questionNumber": 3,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "IV. ETIOLOGI #(Allmänt)",
+        "questionNumber": 4,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 2,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 3,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 4,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 5,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 6,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 7,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 8,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 10,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 11,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 12,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 13,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 14,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 15,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 16,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 17,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 18,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 19,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 20,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 21,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 22,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 23,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 24,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 25,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 26,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 27,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 28,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 29,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 30,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 31,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 32,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 33,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 34,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 35,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 36,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 37,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 38,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 39,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 40,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 41,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 42,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 43,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 44,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 45,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 46,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 47,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 48,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 49,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 50,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 51,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 52,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 53,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 54,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 55,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 56,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 57,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 58,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 59,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 60,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 61,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 62,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 63,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 64,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 65,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 66,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 67,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 68,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 69,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 70,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 71,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 72,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 73,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 74,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 75,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 76,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 77,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 78,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 79,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 80,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 81,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 82,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 83,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 84,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 85,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 86,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 87,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 88,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 89,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 90,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 91,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 92,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 93,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 94,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 95,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 96,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 97,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 98,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 99,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 100,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 101,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 102,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 103,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 104,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 105,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 106,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 107,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "V. ORGANENS OCH SUBSTANSERNAS FYSIOLOGI OCH PATOLOGI",
+        "questionNumber": 108,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 1,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 2,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 3,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 4,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 5,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 6,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 7,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 8,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 9,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 10,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 12,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 13,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 14,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 15,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 16,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 17,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 18,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 19,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 20,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 21,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 22,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 23,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 24,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 25,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 26,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 27,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 28,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VI. DIAGNOSTISKA METODER I KINESISK MEDICIN",
+        "questionNumber": 29,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 1,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 2,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 3,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 4,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 5,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 6,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 7,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 8,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 9,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 10,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 12,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 13,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 14,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.1. PUNKTGRUPPER) AKUPUNKTURPUNKTER (Denna avdelning är indelad i frågor på punktgrupper och individuella punkter.)",
+        "questionNumber": 15,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 2,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 3,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 4,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 5,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 6,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 7,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 8,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 10,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 11,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 12,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 13,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 14,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 15,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 16,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 17,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 18,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 19,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 20,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 21,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 22,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 23,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 24,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 25,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 26,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 27,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 28,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 29,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 30,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 31,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 32,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 33,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 34,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 35,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 36,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 37,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 38,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 39,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 40,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 41,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 42,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 43,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 44,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 45,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 46,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 47,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 48,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 49,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 50,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 51,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 52,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 53,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 54,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 55,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 56,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 57,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 58,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 59,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 60,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 61,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 62,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 63,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 64,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 65,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 66,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 67,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 68,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 69,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 70,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 71,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 72,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 73,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 74,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 75,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 76,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 77,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 78,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 79,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 80,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 81,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 82,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 83,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 84,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 85,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 86,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 87,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 88,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 89,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 90,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 91,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 92,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 93,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 94,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 95,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 96,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 97,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 98,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 99,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 100,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 101,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 102,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 103,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 104,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 105,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 106,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 107,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 108,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 109,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 110,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 111,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 112,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 113,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 114,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 115,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 116,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 117,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 118,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 119,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 120,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 121,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 122,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 123,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 124,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 125,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 126,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 127,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 128,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 129,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 130,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 131,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 132,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 133,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 134,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 135,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 136,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 137,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 138,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 139,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 140,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 141,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 142,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 143,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 144,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 145,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 146,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 147,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 148,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 149,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 150,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 151,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 152,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 153,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 154,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 155,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 156,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 157,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 158,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 159,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 160,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 161,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 162,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 163,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 164,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 165,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
+        "questionNumber": 166,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 1,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 2,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 3,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 4,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 5,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 6,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 7,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 8,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 9,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 10,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 12,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 13,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 14,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 15,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 16,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 17,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 18,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "VIII. METODER FÖR VAL AV PUNKTER",
+        "questionNumber": 19,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "IX. BEHANDLINGSSTRATEGIER",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "IX. BEHANDLINGSSTRATEGIER",
+        "questionNumber": 2,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "IX. BEHANDLINGSSTRATEGIER",
+        "questionNumber": 3,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "IX. BEHANDLINGSSTRATEGIER",
+        "questionNumber": 4,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "IX. BEHANDLINGSSTRATEGIER",
+        "questionNumber": 5,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 1,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 2,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 3,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 4,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 5,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 6,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 7,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 8,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 10,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 12,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 13,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
+        "questionNumber": 14,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 1,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 2,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 3,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 4,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 5,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 6,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 7,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 8,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 9,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 10,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 11,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 12,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 13,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 14,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 15,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 16,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 17,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 18,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 19,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 20,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 21,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 22,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 23,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 24,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 25,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 26,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 27,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 28,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 29,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 30,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 31,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 32,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 33,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 34,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 35,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 36,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 37,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 38,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 39,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 40,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 41,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 42,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 43,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 44,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 45,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 46,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 47,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 48,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 49,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 50,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 51,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 52,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 53,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 54,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 55,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 56,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 57,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 58,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 59,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 60,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 61,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 62,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 63,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 64,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 65,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 66,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 67,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 68,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 69,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 70,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 71,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 72,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 73,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 74,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 75,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 76,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 77,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 78,
+        "rightAnswer": "A"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 79,
+        "rightAnswer": "B"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 80,
+        "rightAnswer": "D"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 81,
+        "rightAnswer": "C"
+    },
+    {
+        "part": "XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR",
+        "questionNumber": 82,
+        "rightAnswer": "B"
+    }
+]
