@@ -1,0 +1,129 @@
+.quiz {
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style for the question */
+.question {
+  font-family: "Assistant", sans-serif;
+  /* Use the Assistant font */
+}
+
+/* Style for the question part */
+.question p:first-child {
+  font-weight: bold;
+  color: #333333;
+  /* Text color for the question part */
+}
+
+/* Style for the question text */
+.question p:nth-child(2) {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #1e1e1e;
+  /* Text color for the question */
+}
+
+/* Style for the options */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style for each option */
+li {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #242636;
+  /* Border color for the options */
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect for options */
+li:hover {
+  background-color: #242636;
+  color: #ffffff;
+  /* Text color on hover */
+}
+
+
+/* Style for option text */
+li {
+  color: #1e1e1e;
+}
+
+/* Additional styling for option numbering */
+li::before {
+  content: attr(data-option) ". ";
+  font-weight: bold;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: flex-end;
+  /* Align buttons to the right */
+  margin-top: 20px;
+  justify-content: end;
+}
+
+.navigation-buttons-train {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  gap: 10px;
+}
+
+.previous-button,
+.next-button {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.previous-button:disabled,
+.next-button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+.quiz .question ul li.selected {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+.quiz .question ul li.disabled:hover {
+  background-color: inherit;
+  color: inherit;
+}
+
+.disable-click {
+  pointer-events: none;
+}
+
+.quiz .question ul li.correct {
+  border: 2px solid #1e8b2d;
+  background: rgb(141, 217, 97);
+  background: radial-gradient(circle, rgb(135, 226, 83) 100%, rgba(255, 255, 255, 1) 0%);
+  color:white;
+  cursor: not-allowed;
+}
+
+.quiz .question ul li.wrong {
+  border: 2px solid rgb(214, 62, 62);
+  background: rgb(224, 0, 0);
+  background: radial-gradient(circle, rgba(224, 0, 0, 0.8421962535014006) 100%, rgba(255, 255, 255, 0.836594012605042) 0%);
+  cursor: not-allowed !important;
+}
+
+.quiz .question ul li.white {
+  background-color: rgb(255, 255, 255);
+  cursor: not-allowed;
+}

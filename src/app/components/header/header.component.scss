@@ -1,0 +1,22 @@
+
+.header {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0 0 0;
+    box-sizing: inherit;
+    position: relative;
+}
+
+.text {
+    font: 1.5em Open Sans, Impact;
+    text-transform: uppercase;
+    fill: url(#gr-simple);
+}
+
+svg {
+    width: 50w;
+    height: auto;
+}

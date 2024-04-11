@@ -1,0 +1,78 @@
+<!-- result-page.component.html -->
+<div class="result-summary">
+  <div class="dot-container">
+    <p>{{ getRightAnswerCount() | async}}</p>
+    <div class="icon">
+      <svg id="yin-yang" fill="#1e8b2d" height="20px" width="20px" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 296.085 296.085" xml:space="preserve">
+        <g>
+          <path
+            d="M296.051,147.956c0-0.094-0.004-0.186-0.004-0.28C295.823,66.258,229.541,0,148.098,0 c-38.547,0-75.041,14.63-102.76,41.396c-27.643,26.693-43.66,62.648-45.1,100.648h0.018c-0.158,2-0.234,4.211-0.234,5.99 c0,1.699,0.191,6.078,0.201,6.331c1.6,38.2,17.689,73.866,45.305,100.419c27.699,26.632,64.119,41.301,102.555,41.301 c81.432,0,147.815-66.253,147.98-147.707C296.063,148.246,296.059,148.102,296.051,147.956z M148.082,280.088 c-34.279,0-66.762-13.08-91.465-36.831c-9.809-9.432-17.988-20.151-24.369-31.789c7.486,5.433,15.834,9.458,24.668,11.933 c-0.02-0.014-0.037-0.026-0.057-0.04c6.838,1.929,13.969,2.935,21.223,2.935c20.377,0,39.658-7.807,54.289-21.982 c14.594-14.139,23.014-33.094,23.707-53.376c0.039-5.102,0.014-5.102,0.014-5.012l-0.004-0.118 c1.281-33.463,28.271-59.635,61.777-59.635c34.195,0,61.844,27.746,61.844,61.939c0,0.002,0-0.002,0-0.002 c0,0.058,0.177,0.346,0.183,0.473C279.586,221.08,220.612,280.088,148.082,280.088z M98,148.088c0,11.028-8.973,20-20,20 c-11.029,0-20-8.972-20-20c0-11.028,8.971-20,20-20C89.028,128.088,98,137.059,98,148.088z" />
+          <path id="black-circle"
+            d="M218,128.088c-11.029,0-20,8.972-20,20c0,11.028,8.971,20,20,20c11.027,0,20-8.972,20-20 C238,137.059,229.028,128.088,218,128.088z" />
+        </g>
+      </svg>
+    </div>
+
+  </div>
+  <div class="dot-container">
+    <p>{{ getWrongAnswerCount() | async }}</p>
+    <svg id="yin-yang" fill="red" height="20px" width="20px" version="1.1" xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 296.085 296.085" xml:space="preserve">
+      <g>
+        <path
+          d="M296.051,147.956c0-0.094-0.004-0.186-0.004-0.28C295.823,66.258,229.541,0,148.098,0 c-38.547,0-75.041,14.63-102.76,41.396c-27.643,26.693-43.66,62.648-45.1,100.648h0.018c-0.158,2-0.234,4.211-0.234,5.99 c0,1.699,0.191,6.078,0.201,6.331c1.6,38.2,17.689,73.866,45.305,100.419c27.699,26.632,64.119,41.301,102.555,41.301 c81.432,0,147.815-66.253,147.98-147.707C296.063,148.246,296.059,148.102,296.051,147.956z M148.082,280.088 c-34.279,0-66.762-13.08-91.465-36.831c-9.809-9.432-17.988-20.151-24.369-31.789c7.486,5.433,15.834,9.458,24.668,11.933 c-0.02-0.014-0.037-0.026-0.057-0.04c6.838,1.929,13.969,2.935,21.223,2.935c20.377,0,39.658-7.807,54.289-21.982 c14.594-14.139,23.014-33.094,23.707-53.376c0.039-5.102,0.014-5.102,0.014-5.012l-0.004-0.118 c1.281-33.463,28.271-59.635,61.777-59.635c34.195,0,61.844,27.746,61.844,61.939c0,0.002,0-0.002,0-0.002 c0,0.058,0.177,0.346,0.183,0.473C279.586,221.08,220.612,280.088,148.082,280.088z M98,148.088c0,11.028-8.973,20-20,20 c-11.029,0-20-8.972-20-20c0-11.028,8.971-20,20-20C89.028,128.088,98,137.059,98,148.088z" />
+        <path id="black-circle"
+          d="M218,128.088c-11.029,0-20,8.972-20,20c0,11.028,8.971,20,20,20c11.027,0,20-8.972,20-20 C238,137.059,229.028,128.088,218,128.088z" />
+      </g>
+    </svg>
+  </div>
+</div>
+
+<div class="result-container" *ngFor="let key of accordionItemKeys$ | async">
+  <p class="part">{{ key }}</p>
+  
+  <div *ngIf="groupedAccordionItems$ | async as groupedAccordionItems">
+    <div *ngFor="let item of getItemsForKey(key, groupedAccordionItems)">
+      <ng-container *ngIf="!!item">
+        <div class="quiz" [ngClass]="item.status === 'correct' ? 'quiz-background-correct' : 'quiz-background-wrong'">
+
+          <div (click)="item.expanded = !item.expanded" accordion class="accordion">
+
+            <div class="question">
+              <p>{{item.questionNumber}}. {{ item?.expanded ? item.question : truncateText(item.question) }}</p>
+            </div>
+
+            <svg width="32px" height="32px" viewBox="-1.7 -1.7 20.40 20.40" version="1.1" xmlns="http://www.w3.org/2000/svg"
+              xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" stroke="#000000" stroke-width="0.357"
+              transform="rotate(0)">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier">
+                <path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z"
+                  fill="#000000"></path>
+              </g>
+            </svg>
+
+          </div>
+
+          <div class="accordion-content">
+            <ul>
+              <li *ngIf="!!item?.A" [ngClass]="checkForAnswer('A', item)" data-option="A">{{ item?.A }}</li>
+              <li *ngIf="!!item?.B" [ngClass]="checkForAnswer('B', item)" data-option="B">{{ item?.B }}</li>
+              <li *ngIf="!!item?.C" [ngClass]="checkForAnswer('C', item)" data-option="C">{{ item?.C }}</li>
+              <li *ngIf="!!item?.D" [ngClass]="checkForAnswer('D', item)" data-option="D">{{ item?.D }}</li>
+            </ul>
+          </div>
+
+        </div>
+      </ng-container>
+    </div>
+  </div>
+
+</div>
+
+<div class="buttons">
+  <button (click)="navigateToHomePage()" class="btn">Go to Home Page</button>
+  <button (click)="navigateToRandomPage()" class="btn">Try again</button>
+</div>

@@ -1,0 +1,9 @@
+<app-question 
+    [type]="'train'"
+    [showNextButton]="false"
+    [qs]="question$.pipe() | async" 
+    (nextClick)="nextQuestion($event)"
+    >
+</app-question>
+
+<!-- <app-loading-spinner *ngIf="showSpinner$.pipe() | async"></app-loading-spinner> -->

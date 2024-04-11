@@ -1,0 +1,19 @@
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Adjust as needed for your layout */
+}
+
+.content {
+    text-align: center;
+}
+
+.result-message {
+    font-size: 1.25rem;
+    color: #333333;
+    margin-bottom: 20px;
+    font-family: "Assistant", sans-serif;
+    /* Use the Assistant font */
+}

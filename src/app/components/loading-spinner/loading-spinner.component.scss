@@ -1,0 +1,44 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+@keyframes moveCircle {
+    0% {
+      transform: translateX(0);
+    }
+    40% {
+      transform: translateX(-8.75em); /* Move to the left */
+    }
+    60% {
+      transform: translateX(-8.75em); /* Pause briefly */
+    }
+    100% {
+      transform: translateX(0); /* Move back to the original position */
+    }
+  }
+
+  @keyframes spinSvg {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  #yin-yang {
+    animation: spinSvg 6s linear infinite; /* Adjust duration and timing function as needed */
+  }
+  
+  #yin-yang #black-circle {
+    animation: moveCircle 2s infinite;
+  }
