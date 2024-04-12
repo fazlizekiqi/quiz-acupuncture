@@ -34,15 +34,15 @@ export class TrainPageComponent {
     private readonly router: Router,
     private readonly resultService: ResultService,
     private readonly route: ActivatedRoute
-    
+
   ) {
     this.questions$ = this.loadData.questionWithAnswers;
     this.route.queryParams.subscribe(params => {
-      if(params['random'] ){
-          this.getShuffledQuestions(params['random'] === 'true' ? true : false);
+      if (params['random']) {
+        this.getShuffledQuestions(params['random'] === 'true' ? true : false);
       }
-  });
-    
+    });
+
 
   }
 
@@ -50,13 +50,21 @@ export class TrainPageComponent {
 
     this.questions$.pipe(
       map(questions => {
-        if(!!shuffled){
+        if (!!shuffled) {
           this.shuffleQuestions(questions);
-          return questions;   
-        }else {
-         return questions.reverse()
+          return questions;
+        } else {
+          return questions.sort((a, b) => {
+            const partA = a.part.substring(0, 10);
+            const partB = b.part.substring(0, 10);
+
+            if (partA < partB) return -1;
+            if (partA > partB) return 1;
+            return parseInt(a.questionNumber) - parseInt(b.questionNumber);
+          }).reverse();
+
         }
-        
+
       })
     ).subscribe(randomQuestions => {
       this.randomQuestions = [...randomQuestions]
@@ -71,7 +79,7 @@ export class TrainPageComponent {
     }
   }
 
-  public nextQuestion(answer: QuizQuestion) { 
+  public nextQuestion(answer: QuizQuestion) {
     this.newRandomQuestion();
   }
 
@@ -83,7 +91,7 @@ export class TrainPageComponent {
 
   }
 
-  public goToHomePage(){
+  public goToHomePage() {
     this.router.navigate([''])
   }
 
