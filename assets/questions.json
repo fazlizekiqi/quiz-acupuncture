@@ -2019,15 +2019,15 @@
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
         "questionNumber": "10",
         "question": "Pianli (Li 6) är indikerad vid tandvärk, kall känsla i tänderna, grumlig syn och problem med näsan. Alla dessa symtom kan förstås från meridianens förlopp, men hur kommer det sig att den även är indikerad för tinnitus och dövhet?",
-        "A": "Shousanli är i likhet med Zusanli lokaliserad på yang ming meridianerna som är rika på qi och blod.",
-        "B": "Shousanli är i likhet med Zusanli lokaliserad på tai yang meridianerna som är rika på qi och blod.",
-        "C": "Shousanli är i likhet med Zusanli lokaliserad på shao yang meridianerna som är rika på qi och blod.",
-        "D": "Shousanli är i likhet med Zusanli lokaliserad på shao yin meridianerna som är rika på qi och blod."
+        "A": "Punkten är en yuan-punkt vilken återvitaliserar qi och blod även i öronen.",
+        "B": "Punkten är en xi-punkt som kan behandla akut tinnitus.",
+        "C": "Punkten är en bra empirisk punkt för dessa problem.",
+        "D": "Punkten är en luo–punkt som har en longitudinell förgrening till örat."
     },
     {
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
-        "questionNumber": "10",
-        "question": "Pianli (Li 6) är indikerad vid tandvärk, kall känsla i tänderna, grumlig syn och problem med näsan. Alla dessa symtom kan förstås från meridianens förlopp, men hur kommer det sig att den även är indikerad för tinnitus och dövhet?",
+        "questionNumber": "11",
+        "question": "Shousanli (Li 10) och Zusanli (St 36) är båda potenta punkter för att tonisera qi och blod, varför?",
         "A": "Shousanli är i likhet med Zusanli lokaliserad på yang ming meridianerna som är rika på qi och blod.",
         "B": "Shousanli är i likhet med Zusanli lokaliserad på tai yang meridianerna som är rika på qi och blod.",
         "C": "Shousanli är i likhet med Zusanli lokaliserad på shao yang meridianerna som är rika på qi och blod.",
@@ -2253,15 +2253,15 @@
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
         "questionNumber": "36",
         "question": "Taibai (Sp 3) är en shu-ström punkt relaterad till jord och en yuan-punkt. Med dessa egenskaper så innebär det för denna punkt:",
-        "A": "Ren mai.",
-        "B": "Chong mai.",
-        "C": "Du mai.",
-        "D": "Yang qiao mai."
+        "A": "Att den på ett kraftfullt sätt kan reglera och stärka qi i mage och mjälte.",
+        "B": "Att den på ett kraftfullt sätt kan reglera och stärka blod i mage och mjälte.",
+        "C": "Att den kan skingra fullhet av qi i mage, mjälte och hjärta.",
+        "D": "Att den kan skingra fullhet av qi och blod i, mjälte och lunga."
     },
     {
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
-        "questionNumber": "36",
-        "question": "Taibai (Sp 3) är en shu-ström punkt relaterad till jord och en yuan-punkt. Med dessa egenskaper så innebär det för denna punkt:",
+        "questionNumber": "37",
+        "question": "Gongsun (Sp 4) är en speciell öppningspunkt för en av de åtta extraordinära meridianerna, vilken?",
         "A": "Ren mai.",
         "B": "Chong mai.",
         "C": "Du mai.",
@@ -3251,16 +3251,16 @@
     {
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
         "questionNumber": "148",
-        "question": "ligger den lokaliserad?",
-        "A": "1 ½ cun lateralt om nedre kanten på spinosen till TH 6.",
-        "B": "1 ½ cun lateralt om nedre kanten på spinosen till TH 7.",
-        "C": "1 ½ cun lateralt om nedre kanten på spinosen till TH 8.",
-        "D": "1 ½ cun lateralt om nedre kanten på spinosen till TH 9."
+        "question": "Dingchuan (M-BW-1) är en viktig extrapunkt för en viss specifik lungsjukdom, vilken? Och vilken punkt i örat har motsvarande funktion?  ",
+        "A": "Kronisk bronkit och lungornas område i örat.",
+        "B": "Bronkial astma och Pingchuan i örat.",
+        "C": "Kronisk bronkit och Pingchuan i örat.",
+        "D": "Bronkial astma och lungornas område i örat."
     },
     {
         "part": "VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter",
-        "questionNumber": "148",
-        "question": "ligger den lokaliserad?",
+        "questionNumber": "149",
+        "question": "Weiguanxiashu (M-BW-12) är en punkt som tidigare kallades för Yishu “pankreas shu-punkt“, var ligger den lokaliserad?",
         "A": "1 ½ cun lateralt om nedre kanten på spinosen till TH 6.",
         "B": "1 ½ cun lateralt om nedre kanten på spinosen till TH 7.",
         "C": "1 ½ cun lateralt om nedre kanten på spinosen till TH 8.",
@@ -3756,7 +3756,7 @@
         "part": "X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR",
         "questionNumber": "14",
         "question": "Nu har det hänt, det som inte får hända – du har punkterat en lunga! Att punktera ett vitalt organ, stora blodkärl och nervstammar, är något som aldrig behöver inträffa. Att förstå den lokala anatomin vid akupunkturpunkten, de vitala organens lokalisation och djup, de stora blodkärlen och nervstammarna, är en självklarhet som knappt behöver betonas. Nu har det hänt och vid penetrering av lungsäck kan pneumothorax uppstå och patienten har symtom som hosta, bröstsmärta, andnöd, blekhet, cyanos och även koma. I detta skede finns bara ett alternativ.",
-        "A": "Olyckan är ett faktum, ett vitalt organ är punkterat och i detta fall har det lett till pneumothorax. Jag ringer omedelbart 112 för omgående transport till sjukhus. Jag följer med till sjukhuset och förklarar för jourhavande läkare exakt vad som har hänt. ",
+        "A": "Olyckan är ett faktum, ett vitalt organ är punkterat och i detta fall har det lett till pneumothorax. Jag ringer omedelbart 112 för omgående transport till sjukhus. Jag följer med till sjukhuset och förklarar för jourhavande läkare exakt vad som har hänt.",
         "B": "",
         "C": "",
         "D": ""
