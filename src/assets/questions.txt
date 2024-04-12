@@ -173,7 +173,6 @@ A. Vid fullhet i lever invaderas jord och man får symtom från mage och mjälte
 B. Vid fullhet i hjärtat invaderas metall och man får symtom från lunga och tjocktarm.
 C. Vid fullhet i jord invaderas vatten och man får symtom från njurar och urinblåsa.
 D. Vid fullhet i metall invaderas vatten och man får symtom från mage och mjälte
-
 III. #(3.1. ALLMÄNT) MERIDIANSYSTEMET – JINGLUO 
 1. Begreppet jing luo (經絡) har översatts till begreppet meridian, men hur lyder hela betydelsen av
 begreppet jing luo, vilket förslag är riktigt?
@@ -1510,7 +1509,6 @@ A. St 34, Lu 6, Sp 10, Si 6.
 B. Sp 8, Pc 4, Lu 6, Ki 5.
 C. Lr 6, Sp 6, Li 7, Bl 63.
 D. Gb 36, Sp 8, Lu 7, Ki 4.
-
 VII. #(7.2. INDIVIDUELLA AKUPUNKTURPUNKTER) AKUPUNKTURPUNKTER #(Frågor) *Frågorna är baserade på 146 reguljära punkter och 26 extra-punkter 
 1. Zhongfu (Lu 1) är indikerad vid olika typer av hosta, men även vid kräkningar, av vilken anledning?
 A. Lungans meridian går igenom magsäcken.
@@ -1579,7 +1577,7 @@ A. Punkten är en yuan-punkt vilken återvitaliserar qi och blod även i öronen
 B. Punkten är en xi-punkt som kan behandla akut tinnitus.
 C. Punkten är en bra empirisk punkt för dessa problem.
 D. Punkten är en luo–punkt som har en longitudinell förgrening till örat.
-11.Shousanli (Li 10) och Zusanli (St 36) är båda potenta punkter för att tonisera qi och blod, varför?
+11. Shousanli (Li 10) och Zusanli (St 36) är båda potenta punkter för att tonisera qi och blod, varför?
 A. Shousanli är i likhet med Zusanli lokaliserad på yang ming meridianerna som är rika på qi och blod.
 B. Shousanli är i likhet med Zusanli lokaliserad på tai yang meridianerna som är rika på qi och blod.
 C. Shousanli är i likhet med Zusanli lokaliserad på shao yang meridianerna som är rika på qi och blod.
@@ -1729,7 +1727,7 @@ A. Att den på ett kraftfullt sätt kan reglera och stärka qi i mage och mjält
 B. Att den på ett kraftfullt sätt kan reglera och stärka blod i mage och mjälte.
 C. Att den kan skingra fullhet av qi i mage, mjälte och hjärta.
 D. Att den kan skingra fullhet av qi och blod i, mjälte och lunga.
-37.Gongsun (Sp 4) är en speciell öppningspunkt för en av de åtta extraordinära meridianerna, vilken?
+37. Gongsun (Sp 4) är en speciell öppningspunkt för en av de åtta extraordinära meridianerna, vilken?
 A. Ren mai.
 B. Chong mai.
 C. Du mai.
@@ -2525,7 +2523,7 @@ A. Kronisk bronkit och lungornas område i örat.
 B. Bronkial astma och Pingchuan i örat.
 C. Kronisk bronkit och Pingchuan i örat.
 D. Bronkial astma och lungornas område i örat.
-149.Weiguanxiashu (M-BW-12) är en punkt som tidigare kallades för Yishu “pankreas shu-punkt“, var
+149. Weiguanxiashu (M-BW-12) är en punkt som tidigare kallades för Yishu “pankreas shu-punkt“, var
 ligger den lokaliserad?
 A. 1 ½ cun lateralt om nedre kanten på spinosen till TH 6.
 B. 1 ½ cun lateralt om nedre kanten på spinosen till TH 7. 
@@ -2645,8 +2643,6 @@ A. Åtta tår.
 B. Åtta vindar.
 C. Åtta nålar.
 D. Åtta akupunkturpunkter.
-
-
 VIII. METODER FÖR VAL AV PUNKTER
 1. Val av lokala, närliggande och distala punkter är en viktig princip när man väljer punkter. Vilka
 punkter är riktiga i följande fall. Olle har skadat sitt högra knä när han cyklade omkull. Svullnad,
@@ -2765,7 +2761,6 @@ A. Zhongfeng (Lr 4), Shanqiu (Sp 5).
 B. Erjian (Li 2), Lidui (St 45).
 C. Yongquan (Ki 1), Taichong (Lr 3).
 D. Shugu (Bl 65), Quchi (Li 11).
-
 IX. BEHANDLINGSSTRATEGIER
 1. Det finns ett citat i vår klassiska text Huang Di Nei Jing, som säger att “Den store läkaren behandlar när
 det inte finns någon sjukdom”. Vad betyder det egentligen?
@@ -2802,7 +2797,6 @@ B. Att skingra interna patogener som vind, fukt, kyla, torka och hetta och även
 patogener som slem, stagnerat blod, stagnerad qi etc.
 C. Att bygga upp motståndskraft bl.a. genom att äta vitaminer.
 D. Att motionera för att bli riktigt frisk.
-
 X. PRAKTISK TILLÄMPNING AV AKUPUNKTUR
 1. För att få bra kliniska resultat är det viktigt att man erhåller deqi. Vad är deqi och hur vet du att du
 har erhållit deqi?
@@ -3041,9 +3035,7 @@ blekhet, cyanos och även koma. I detta skede finns bara ett alternativ.
 A. Olyckan är ett faktum, ett vitalt organ är punkterat och i detta fall har det lett till pneumothorax.
 Jag ringer omedelbart 112 för omgående transport till sjukhus. Jag följer med till sjukhuset och förklarar för
 jourhavande läkare exakt vad som har hänt.
-
 XI. BEHANDLING AV OFTA FÖREKOMMANDE SYMTOM OCH SJUKDOMAR #(BRONKIALASTMA)
-
 1. Kurt 58, har arbetat i en mekanisk verkstad sedan 26 år tillbaka. Han har nu blivit
 förtidspensionerad pga. anfallsvis uppträdande andningssvårigheter och fått diagnosen bronkialastma
 Han har svårt med både in- och utandning, det piper i bröstet och han har dålig ork. Han är rökare
