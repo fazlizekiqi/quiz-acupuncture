@@ -8,37 +8,54 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  transform: rotate(140deg);
 }
 
 
 @keyframes moveCircle {
-    0% {
-      transform: translateX(0);
-    }
-    40% {
-      transform: translateX(-8.75em); /* Move to the left */
-    }
-    60% {
-      transform: translateX(-8.75em); /* Pause briefly */
-    }
-    100% {
-      transform: translateX(0); /* Move back to the original position */
-    }
+  0% {
+    transform: translateX(0);
   }
 
-  @keyframes spinSvg {
-    0% {
-      transform: rotate(0deg);
-    }
-    100% {
-      transform: rotate(360deg);
-    }
+  50% {
+    transform: translateX(0);
+    /* Move to the left */
   }
 
-  #yin-yang {
-    animation: spinSvg 6s linear infinite; /* Adjust duration and timing function as needed */
+  60% {
+    transform: translateX(-8.75em);
+    /* Pause briefly */
   }
-  
-  #yin-yang #black-circle {
-    animation: moveCircle 2s infinite;
+
+  80% {
+    transform: translateX(-8.75em);
+    /* Pause briefly */
   }
+
+  100% {
+    transform: translateX(0);
+    /* Move back to the original position */
+  }
+}
+
+@keyframes spinSvg {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(360deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#yin-yang {
+  animation: spinSvg 4s forwards infinite;
+}
+
+#yin-yang #black-circle {
+  animation: moveCircle 4s infinite;
+}

@@ -57,31 +57,36 @@ function parseTextFile(file_path) {
 
             }
         } else if (line.match(/^[A-D]\./)) {
-            current_question[current_alternative] = line.split('.')[1];
+            const regex = /^[A-D]\.\s*/;
 
+            // Use the pattern to find the match
+            const match = line.match(regex);
+
+            current_question[current_alternative] = match ? line.substring(match[0].length): line
+           
 
             temp_index = i;
-            if (lines[temp_index + 1] ) {
+            if (lines[temp_index + 1]) {
                 while (true) {
                     if ((!lines[temp_index + 1]?.match(/^[A-D]\./) && !lines[temp_index + 1]?.match(/^\d+\./)) && !lines[temp_index + 1]?.match(/^[IVX]+\./)) {
                         current_question[current_alternative] = current_question[current_alternative] + ' ' + lines[temp_index + 1];
-                        
-                        
+
+
                     }
 
-                    if(lines[temp_index + 1]?.match(/^[A-D]\./) ) {
+                    if (lines[temp_index + 1]?.match(/^[A-D]\./)) {
                         current_alternative = lines[temp_index + 1].split('.')[0]
                         break;
                     }
 
-                    if (lines[temp_index + 1]?.match(/^\d+\./)){
-                    
+                    if (lines[temp_index + 1]?.match(/^\d+\./)) {
+
                         current_alternative = 'A'
                         break;
                     }
 
-                    if (lines[temp_index + 1]?.match(/^[IVX]+\./)){
-                        
+                    if (lines[temp_index + 1]?.match(/^[IVX]+\./)) {
+
                         current_alternative = 'A'
                         break;
                     }

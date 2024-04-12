@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { BehaviorSubject, combineLatest, map, take } from 'rxjs';
+import { BehaviorSubject, combineLatest, map, take, tap } from 'rxjs';
 import { QuizQuestion } from '../domain/models';
 import { QuizAnswer } from './result.service';
 
@@ -11,23 +11,40 @@ export class LoadDataService {
 
   questions$ = new BehaviorSubject<QuizQuestion[]>([])
   answers$ = new BehaviorSubject<QuizAnswer[]>([])
+  questionsLoaded$ = new BehaviorSubject<boolean>(false)
+  answerLoaded$ = new BehaviorSubject<boolean>(false)
 
   constructor(private readonly httpClient: HttpClient) {
-
   }
-
   public loadQuestions() {
     this.httpClient.get<any>('assets/questions.json').pipe(
       take(1)
-    ).subscribe(questions => this.questions$.next(questions))
+    ).subscribe(questions => {
+      this.questions$.next(questions);
+      this.questionsLoaded$.next(true)
+    })
 
   }
 
   public loadAnswers() {
     this.httpClient.get<any>('assets/answers.json').pipe(
       take(1)
-    ).subscribe(answers => this.answers$.next(answers))
+    ).subscribe(answers => {
+      this.answers$.next(answers)
+      this.answerLoaded$.next(true);
+    })
   }
+
+  public get dataLoaded(){
+   
+    
+    return combineLatest([this.questionsLoaded$.pipe(), this.answerLoaded$.pipe()]).pipe(
+    
+      map(([questionLoaded, answerLoaded]) => questionLoaded && answerLoaded),
+    
+    );
+  }
+
 
   public get questionWithAnswers() {
     return combineLatest([this.questions, this.answers]).pipe(

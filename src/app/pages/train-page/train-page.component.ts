@@ -7,7 +7,7 @@ import { QuestionComponent } from '../../components/question/question.component'
 import { ProgressBarComponent } from '../../components/progress-bar/progress-bar.component';
 import { QuizQuestion } from '../../domain/models';
 import { LoadingSpinnerComponent } from '../../components/loading-spinner/loading-spinner.component';
-import { Route, Router } from '@angular/router';
+import { ActivatedRoute, Route, Router } from '@angular/router';
 import { ResultService } from '../../services/result.service';
 import { LoadDataService } from '../../services/load-data.service';
 
@@ -32,17 +32,31 @@ export class TrainPageComponent {
   constructor(
     private readonly loadData: LoadDataService,
     private readonly router: Router,
-    private readonly resultService: ResultService
+    private readonly resultService: ResultService,
+    private readonly route: ActivatedRoute
+    
   ) {
     this.questions$ = this.loadData.questionWithAnswers;
-    this.getShuffledQuestions();
+    this.route.queryParams.subscribe(params => {
+      if(params['random'] ){
+          this.getShuffledQuestions(params['random'] === 'true' ? true : false);
+      }
+  });
+    
+
   }
 
-  public getShuffledQuestions() {
+  public getShuffledQuestions(shuffled: boolean) {
+
     this.questions$.pipe(
       map(questions => {
-        this.shuffleQuestions(questions);
-        return questions;   
+        if(!!shuffled){
+          this.shuffleQuestions(questions);
+          return questions;   
+        }else {
+         return questions.reverse()
+        }
+        
       })
     ).subscribe(randomQuestions => {
       this.randomQuestions = [...randomQuestions]
@@ -67,6 +81,10 @@ export class TrainPageComponent {
       this.question$.next(randomQuestion)
     }
 
+  }
+
+  public goToHomePage(){
+    this.router.navigate([''])
   }
 
 }

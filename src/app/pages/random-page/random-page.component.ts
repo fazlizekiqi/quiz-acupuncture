@@ -7,7 +7,7 @@ import { QuestionComponent } from '../../components/question/question.component'
 import { ProgressBarComponent } from '../../components/progress-bar/progress-bar.component';
 import { QuizQuestion } from '../../domain/models';
 import { LoadingSpinnerComponent } from '../../components/loading-spinner/loading-spinner.component';
-import { Route, Router } from '@angular/router';
+import { ActivatedRoute, Route, Router } from '@angular/router';
 import { ResultService } from '../../services/result.service';
 import { LoadDataService } from '../../services/load-data.service';
 
@@ -44,18 +44,6 @@ export class RandomPageComponent {
 
   public getShuffledQuestions() {
     this.questions$.pipe(
-      // map( questions =>{
-      //     const qs = [];
-
-      //     for (let index = 0; index < questions.length; index++) {
-      //       const element = questions[index];
-      //       if(element.part.startsWith('VII.')){
-      //         qs.push(element)
-      //       }
-            
-      //     }
-      //     return qs;
-      // }),
       map(questions => {
         // Shuffle the array using Fisher-Yates algorithm
         for (let i = questions.length - 1; i > 0; i--) {
@@ -102,6 +90,10 @@ export class RandomPageComponent {
     if (this.currentQuestionIndex.nr === this.totalQuestions) {
       this.resultButton = { showResult: true }
     }
+  }
+
+  public goToHomePage(){
+    this.router.navigate([''])
   }
 }
 

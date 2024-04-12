@@ -1,3 +1,6 @@
 <app-container>
-    <router-outlet />
+    <div *ngIf="(dataLoaded$ | async) ">
+        <router-outlet />
+    </div>
+    <app-loading-spinner *ngIf="!(dataLoaded$ | async) "></app-loading-spinner>
 </app-container>

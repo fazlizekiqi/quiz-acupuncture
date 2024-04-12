@@ -9,11 +9,16 @@
             <span>Start a test with 20 questions</span>
         </a>
 
-        <a class="pill" [routerLink]="['/train']">
-            <span>Train</span>
+        <a class="pill" [routerLink]="['/train']" [queryParams]="{ random: false }">
+            <span>Step-by-Step Practice</span>
         </a>
 
-        <a  class="pill-na" >
+
+        <a class="pill" [routerLink]="['/train']" [queryParams]="{ random: true }">
+            <span>Random Questions</span>
+        </a>
+
+        <a class="pill-na">
             <span>Search for questions (under development)</span>
         </a>
 
