@@ -15,23 +15,66 @@ import { AsyncPipe, NgFor, NgIf } from '@angular/common';
 })
 export class CategoriesPageComponent {
 
-  public categories$:Observable<string []>; 
+  public categories$: Observable<string[]>;
 
   constructor(
     public readonly loadData: LoadDataService,
-    public readonly router:Router
-    ){
+    public readonly router: Router
+  ) {
     this.categories$ = loadData.questions.pipe(
-        map(questions => Array.from(new Set(questions.map(question => question.part))))
-      )
+      map(questions => Array.from(new Set(questions.map(question => question.part)))),
+      map(questions => questions.sort(this.sortByRoman.bind(this)))
+    )
   }
 
-  public navigateToCategory(route : string ){
+  public navigateToCategory(route: string) {
     const regex = /^[IVXLCDM]+/;
     const match = route.match(regex);
-    const category = match ? match[0] : ''; 
+    const category = match ? match[0] : '';
     const definition = match ? match.input : ''
-    
-    this.router.navigate(['/categories', category], { queryParams:  {definition} })
+    this.router.navigate(['/categories', category], { queryParams: { definition } })
   }
+
+  public romanToDecimal(roman: string): number {
+    const romanNumerals: { [key: string]: number } = {
+      I: 1,
+      V: 5,
+      X: 10,
+      L: 50,
+      C: 100,
+      D: 500,
+      M: 1000
+    };
+
+    let result = 0;
+    for (let i = 0; i < roman.length; i++) {
+      const current = romanNumerals[roman[i]];
+      const next = romanNumerals[roman[i + 1]];
+
+      if (next && current < next) {
+        result += next - current;
+        i++;
+      } else {
+        result += current;
+      }
+    }
+    return result;
+  }
+
+  public sortByRoman(a: string, b: string): number {
+    const romanRegex = /^[IVXLCDM]+/;
+    const matchA = a.match(romanRegex);
+    const matchB = b.match(romanRegex);
+
+    if (!matchA || !matchB) {
+      return 0;
+    }
+
+    const romanA = matchA[0];
+    const romanB = matchB[0];
+    const decimalA = this.romanToDecimal(romanA);
+    const decimalB = this.romanToDecimal(romanB);
+    return decimalA - decimalB;
+  }
+
 }
