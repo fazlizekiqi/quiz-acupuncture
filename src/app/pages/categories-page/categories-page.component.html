@@ -1,0 +1,14 @@
+<h1>Choose category</h1>
+
+    <app-divider></app-divider>
+
+<div class="pill-group">
+    
+    <ng-container *ngIf="categories$ | async as categories">
+        <div *ngFor="let category of categories" class="pill" (click)="[navigateToCategory(category)]">
+          <span>{{ category }}</span>
+        </div>
+      </ng-container>
+   
+
+</div>

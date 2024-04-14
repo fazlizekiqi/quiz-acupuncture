@@ -61,6 +61,7 @@ export class QuestionComponent {
 
   selectAnswer(selectedOption: string) {
     this.selectedAnswer = selectedOption;
+    this.revealAnswer()
   }
 
   revealAnswer() {

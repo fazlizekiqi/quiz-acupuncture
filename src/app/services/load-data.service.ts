@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { BehaviorSubject, combineLatest, map, take, tap } from 'rxjs';
+import { BehaviorSubject, combineLatest, map, take, tap ,filter} from 'rxjs';
 import { QuizQuestion } from '../domain/models';
 import { QuizAnswer } from './result.service';
 
@@ -57,6 +57,16 @@ export class LoadDataService {
         return questionsArr; // Return the updated questions array with answers
       })
     );
+  }
+
+  public findQuestionWithAnswerByCategory(category: string ){
+    return this.questionWithAnswers.pipe(
+      map((questions: any) =>  {
+
+        return  questions.filter((qs: any) => qs.part.toUpperCase() === category.toUpperCase())
+
+      })
+    )
   }
 
   public get questions() {
