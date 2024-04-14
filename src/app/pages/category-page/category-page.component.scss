@@ -1,0 +1,59 @@
+.result-summary {
+    display: flex;
+
+    gap: 10px;
+}
+
+.back-button {}
+
+.dot-container {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Push the second div to the center */
+    margin-right: auto; 
+    gap: 5px;
+}
+
+.dot-container p {
+    font-weight: lighter;
+    color: #333333;
+    /* Text color for the question part */
+    font-family: "Assistant", sans-serif;
+    /* Use the Assistant font */
+}
+
+#yin-yang {
+    align-self: center;
+    text-align: center;
+    transform: rotate(120deg);
+}
+
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Adjust as needed for your layout */
+}
+
+.content {
+    text-align: center;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.result-message {
+    font-size: 1.25rem;
+    color: #333333;
+    margin-bottom: 20px;
+    font-family: "Assistant", sans-serif;
+    /* Use the Assistant font */
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 5px
+}

@@ -63,19 +63,16 @@ export class CategoriesPageComponent {
 
   public getCategoryText(category: string ){
     const regex = /#\s*\(([^)]+)\)|#\(([^)]+)\)/;
-    
-    // Executing the regular expression on the input string
+
     const match = category.match(regex);
     
     if (match) {
-        // If a match is found
-        const testText = match[1] || match[2]; // Text inside parentheses
-        const testTextWithoutHash = testText.replace(/^#\s*/, ''); // Remove '#' and optional spaces
-        const otherPart = category.replace(match[0], '').trim(); // Removing the test text from the category
+        const testText = match[1] || match[2]; 
+        const testTextWithoutHash = testText.replace(/^#\s*/, ''); 
+        const otherPart = category.replace(match[0], '').trim();
         return [testTextWithoutHash, otherPart];
     } else {
-        // If no match is found
-        return [null, category]; // Return null for test text and the entire category as the other part
+        return [null, category];
     }
   }
 
@@ -95,4 +92,7 @@ export class CategoriesPageComponent {
     return decimalA - decimalB;
   }
 
+  public goToHomePage(){
+    this.router.navigate([''])
+  }
 }

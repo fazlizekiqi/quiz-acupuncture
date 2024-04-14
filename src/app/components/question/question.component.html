@@ -2,8 +2,8 @@
   <div class="question">
     <p>{{ question?.part }}</p>
     <p>{{ question?.questionNumber }}. {{ question?.question }}</p>
-    <ul>
 
+    <!-- <ul>
       <li 
         *ngIf="!!question?.A" 
         data-option="A" 
@@ -48,8 +48,19 @@
         [class.white]="type==='train' && selectedAnswer !== 'D' &&  'D' !== question?.correctAnswer && revealAnswerFlag.reveal"
       >{{question?.D }}</li>
 
-    </ul>
+    </ul> -->
 
+    <ul *ngFor="let option of alternatives">
+      <li 
+        [attr.data-option]="option?.fakeLabel" 
+        (click)="selectAnswer(option.label)" 
+        [class.selected]="selectedAnswer === option.label"
+        [class.disable-click]="optionsDisabled.disabled"
+        [class.correct]="type==='train' && option.label === question?.correctAnswer && revealAnswerFlag.reveal"
+        [class.wrong]="type==='train' && option.label === selectedAnswer && question?.answerOption !== question?.correctAnswer && revealAnswerFlag.reveal"
+        [class.white]="type==='train' && selectedAnswer !== option.label && option.label !== question?.correctAnswer && revealAnswerFlag.reveal"
+      >{{ option.value }}</li>
+    </ul>
   </div>
   <div *ngIf="type ==='test'" class="navigation-buttons">
     <button class="next-button" (click)="goToNextQuestion()" [disabled]="!selectedAnswer  ">Next</button>

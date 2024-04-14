@@ -1,12 +1,12 @@
 
 import { ChangeDetectionStrategy, Component, EventEmitter, Input, Output, input } from '@angular/core';
 import { QuizQuestion } from '../../domain/models';
-import { JsonPipe, NgIf } from '@angular/common';
+import { JsonPipe, NgFor, NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-question',
   standalone: true,
-  imports: [NgIf, JsonPipe],
+  imports: [NgIf, JsonPipe, NgFor],
   templateUrl: './question.component.html',
   styleUrl: './question.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush
@@ -18,6 +18,7 @@ export class QuestionComponent {
   public showResult = false;
   public optionsDisabled: { disabled: boolean } = { disabled: false };
   public revealAnswerFlag = { reveal: false };
+  public alternatives?: { value: string, label: string, fakeLabel?: string }[]
 
   @Input()
   public showNextButton = true;
@@ -36,11 +37,26 @@ export class QuestionComponent {
   public set qs(q: any) {
     if (q) {
       this.question = q;
+      this.alternatives = this.shuffleAlternatives()
       if (q.answerOption) {
         this.selectedAnswer = q.answerOption
       }
 
     }
+  }
+
+  shuffleAlternatives() {
+    const labels = ['A', 'B', 'C', 'D'];
+
+    const shuffledLabels = labels.sort(() => Math.random() - 0.5);
+    const alternatives = [
+      { label: 'A', value: this.question?.A ?? '', fakeLabel: shuffledLabels[0] },
+      { label: 'B', value: this.question?.B ?? '', fakeLabel: shuffledLabels[1] },
+      { label: 'C', value: this.question?.C ?? '', fakeLabel: shuffledLabels[2] },
+      { label: 'D', value: this.question?.D ?? '', fakeLabel: shuffledLabels[3] }
+    ].sort((a, b) => a.fakeLabel > b.fakeLabel ? 1 : -1);
+    this.alternatives = alternatives;
+    return alternatives;
   }
 
   @Input()
@@ -72,8 +88,8 @@ export class QuestionComponent {
       if (this.question) {
         this.question = { ...this.question, answerOption: this.selectedAnswer }
       }
-      
-   
+
+
       // Might need to do something
     }
   }
