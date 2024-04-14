@@ -61,6 +61,24 @@ export class CategoriesPageComponent {
     return result;
   }
 
+  public getCategoryText(category: string ){
+    const regex = /#\s*\(([^)]+)\)|#\(([^)]+)\)/;
+    
+    // Executing the regular expression on the input string
+    const match = category.match(regex);
+    
+    if (match) {
+        // If a match is found
+        const testText = match[1] || match[2]; // Text inside parentheses
+        const testTextWithoutHash = testText.replace(/^#\s*/, ''); // Remove '#' and optional spaces
+        const otherPart = category.replace(match[0], '').trim(); // Removing the test text from the category
+        return [testTextWithoutHash, otherPart];
+    } else {
+        // If no match is found
+        return [null, category]; // Return null for test text and the entire category as the other part
+    }
+  }
+
   public sortByRoman(a: string, b: string): number {
     const romanRegex = /^[IVXLCDM]+/;
     const matchA = a.match(romanRegex);

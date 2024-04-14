@@ -6,7 +6,11 @@
     
     <ng-container *ngIf="categories$ | async as categories">
         <div *ngFor="let category of categories" class="pill" (click)="[navigateToCategory(category)]">
-          <span>{{ category }}</span>
+          <div class="category-text">
+            <span class="category-subpart" *ngIf="getCategoryText(category)[0]">{{ getCategoryText(category)[0] }}</span>
+            <span >{{ getCategoryText(category)[1] }}</span>
+            
+          </div>
         </div>
       </ng-container>
    

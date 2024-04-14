@@ -49,6 +49,6 @@ export class CategoryPageComponent {
 
  
   public goToHomePage() {
-    this.rt.navigate([''])
+    this.rt.navigate(['categories'])
   }
 }
