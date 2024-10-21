@@ -17,16 +17,19 @@ import { AsyncPipe, NgIf } from '@angular/common';
 export class AppComponent {
   title = 'Quiz Acupunture';
 
-  public dataLoaded$;
+  public dataLoaded$: any;
 
   constructor(
     public readonly router: Router,
     public  readonly loadData: LoadDataService
     ){
-      
-      this.loadData.loadQuestions()
-      this.loadData.loadAnswers();
-      this.dataLoaded$ = this.loadData.dataLoaded
+
+
+
+        this.loadData.loadQuestions()
+        this.loadData.loadAnswers();
+        this.dataLoaded$ = this.loadData.dataLoaded
+
       // this.router.navigate(['train'])
   }
 

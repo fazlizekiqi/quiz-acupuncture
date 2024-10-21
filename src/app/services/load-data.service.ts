@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { BehaviorSubject, combineLatest, map, take, tap ,filter} from 'rxjs';
+import {BehaviorSubject, combineLatest, map, take, tap, filter, delay} from 'rxjs';
 import { QuizQuestion } from '../domain/models';
 import { QuizAnswer } from './result.service';
 
@@ -36,12 +36,9 @@ export class LoadDataService {
   }
 
   public get dataLoaded(){
-   
-    
     return combineLatest([this.questionsLoaded$.pipe(), this.answerLoaded$.pipe()]).pipe(
-    
+      delay(4000),
       map(([questionLoaded, answerLoaded]) => questionLoaded && answerLoaded),
-    
     );
   }
 
