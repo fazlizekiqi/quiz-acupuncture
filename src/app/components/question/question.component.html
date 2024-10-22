@@ -1,13 +1,13 @@
 <div class="quiz">
   <div class="question">
-    <p>{{ question?.part }}</p>
+    <p>{{ getFormattedPart(question?.part )}}</p>
     <p>{{ question?.questionNumber }}. {{ question?.question }}</p>
 
     <!-- <ul>
-      <li 
-        *ngIf="!!question?.A" 
-        data-option="A" 
-        (click)="selectAnswer('A')" 
+      <li
+        *ngIf="!!question?.A"
+        data-option="A"
+        (click)="selectAnswer('A')"
         [class.selected]="selectedAnswer === 'A'"
         [class.disable-click]="optionsDisabled.disabled"
         [class.correct]="type==='train' && 'A' === question?.correctAnswer && revealAnswerFlag.reveal"
@@ -15,21 +15,21 @@
         [class.white]="type==='train' && selectedAnswer !== 'A' &&  'A' !== question?.correctAnswer && revealAnswerFlag.reveal"
       >{{question?.A }}</li>
 
-      <li 
-        *ngIf="!!question?.B" 
-        data-option="B" 
-        (click)="selectAnswer('B')" 
+      <li
+        *ngIf="!!question?.B"
+        data-option="B"
+        (click)="selectAnswer('B')"
         [class.selected]="selectedAnswer === 'B'"
         [class.disable-click]="optionsDisabled.disabled"
         [class.correct]="type==='train' && 'B' === question?.correctAnswer && revealAnswerFlag.reveal"
         [class.wrong]="type==='train' && 'B' === selectedAnswer && question?.answerOption !== question?.correctAnswer  &&   revealAnswerFlag.reveal"
         [class.white]="type==='train' && selectedAnswer !== 'B' &&  'B' !== question?.correctAnswer && revealAnswerFlag.reveal"
         >{{question?.B }}</li>
-        
-      <li 
-        *ngIf="!!question?.C" 
-        data-option="C" 
-        (click)="selectAnswer('C')" 
+
+      <li
+        *ngIf="!!question?.C"
+        data-option="C"
+        (click)="selectAnswer('C')"
         [class.selected]="selectedAnswer === 'C'"
         [class.disable-click]="optionsDisabled.disabled"
         [class.correct]="type==='train' && 'C' === question?.correctAnswer && revealAnswerFlag.reveal"
@@ -37,10 +37,10 @@
         [class.white]="type==='train' && selectedAnswer !== 'C' &&  'C' !== question?.correctAnswer && revealAnswerFlag.reveal"
       >{{ question?.C }}</li>
 
-      <li 
-        *ngIf="!!question?.D" 
-        data-option="D" 
-        (click)="selectAnswer('D')" 
+      <li
+        *ngIf="!!question?.D"
+        data-option="D"
+        (click)="selectAnswer('D')"
         [class.selected]="selectedAnswer === 'D'"
         [class.disable-click]="optionsDisabled.disabled"
         [class.correct]="type==='train' && 'D' === question?.correctAnswer && revealAnswerFlag.reveal"
@@ -51,9 +51,9 @@
     </ul> -->
 
     <ul *ngFor="let option of alternatives">
-      <li 
-        [attr.data-option]="option?.fakeLabel" 
-        (click)="selectAnswer(option.label)" 
+      <li
+        [attr.data-option]="option?.fakeLabel"
+        (click)="selectAnswer(option.label)"
         [class.selected]="selectedAnswer === option.label"
         [class.disable-click]="optionsDisabled.disabled"
         [class.correct]="type==='train' && option.label === question?.correctAnswer && revealAnswerFlag.reveal"
@@ -68,7 +68,7 @@
   </div>
 
   <div *ngIf="type==='train'" class="navigation-buttons-train">
-   
+
     <!-- <button  class="previous-button" (click)="revealAnswer()" [disabled]="!selectedAnswer ||  revealAnswerFlag.reveal" >Show answer</button> -->
     <button class="next-button" (click)="goToNextQuestion()">Next</button>
 

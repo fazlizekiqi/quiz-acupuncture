@@ -16,8 +16,8 @@ export class LoadDataService {
 
   constructor(private readonly httpClient: HttpClient) {
   }
-  public loadQuestions() {
-    this.httpClient.get<any>('assets/questions.json').pipe(
+  public loadQuestions(questionsType : string) {
+    this.httpClient.get<any>(`assets/${questionsType}.json`).pipe(
       take(1)
     ).subscribe(questions => {
       this.questions$.next(questions);
@@ -26,8 +26,8 @@ export class LoadDataService {
 
   }
 
-  public loadAnswers() {
-    this.httpClient.get<any>('assets/answers.json').pipe(
+  public loadAnswers(answersType: string) {
+    this.httpClient.get<any>(`assets/${answersType}.json`).pipe(
       take(1)
     ).subscribe(answers => {
       this.answers$.next(answers)

@@ -1,0 +1,24 @@
+<app-header></app-header>
+
+<app-divider></app-divider>
+
+<p >{{this.questionsType}}</p>
+<div class="landing-page" *ngIf="choosingQuestions ">
+
+  <p class="info-text">
+    Your previous choice is saved! Please note:
+  </p>
+  <ul class="info-list">
+    <li>If you continue with the same option, your data will remain intact.</li>
+    <li>Switching between "New" and "Old" questions will reset your data to match your selection.</li>
+  </ul>
+
+  <span style="color: rgba(30,30,30,0.6)">Choose between:</span>
+
+  <button class="button" (click)="navigateTo('new')">New Questions</button>
+  <button class="button" (click)="navigateTo('old')">Old Questions</button>
+
+</div>
+
+<app-divider></app-divider>
+<app-footer></app-footer>

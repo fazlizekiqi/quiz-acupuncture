@@ -1,0 +1,218 @@
+
+.search-input {
+  width: 100%;
+  padding: 10px 15px;
+  border: 2px solid #333; /* Match with the general border style in your design */
+  border-radius: 10px;
+  font-family: "Assistant", sans-serif;
+  font-size: 1rem;
+  color: #333333; /* Consistent text color */
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  background-color: #f9f9f9; /* Light background for contrast */
+  margin-bottom: 20px;
+}
+
+.search-input:focus {
+  border-color: #1e1e1e; /* Darker border on focus */
+  box-shadow: 0 0 10px rgba(30, 30, 30, 0.1); /* Subtle shadow effect */
+  background-color: #ffffff; /* Change background color on focus */
+}
+
+.search-input::placeholder {
+  color: #888888; /* Lighter placeholder color */
+}
+
+.search-input-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.search-button {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.search-button:hover {
+  background-color: #333333;
+  transform: scale(1.05); /* Slight scaling effect on hover */
+}
+
+.search-button:active {
+  background-color: #000000;
+  transform: scale(0.98); /* Scale down on click */
+}
+
+
+.result-summary {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap:10px;
+}
+
+.dot-container {
+  display: flex;
+  align-items: center;
+  gap:5px;
+}
+
+.dot-container p {
+  font-weight: lighter;
+  color: #333333; /* Text color for the question part */
+  font-family: "Assistant", sans-serif; /* Use the Assistant font */
+}
+
+#yin-yang {
+  align-self: center;
+  transform: rotate(120deg);
+}
+
+.result-container {
+  margin-top:5px;
+}
+
+.quiz {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 2px;
+}
+
+.quiz-background-correct {
+  border: 2px solid rgb(30, 139, 45);
+}
+
+.quiz-background-wrong {
+  border: 2px solid rgb(214, 62, 62);
+}
+
+.question {
+  display: flex;
+  flex-direction: column;
+  font-family: "Assistant", sans-serif;
+  /* Use the Assistant font */
+  white-space: normal;
+  /* Allow text to wrap */
+}
+
+.question p {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  color: #1e1e1e; /* Text color for the question */
+}
+
+.part {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.accordion {
+  border: none;
+  outline: none;
+  text-align: left;
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.accordion-icon {
+  margin-right: 10px;
+}
+
+div.accordion.is-open:after {
+
+}
+
+div.accordion:hover,
+div.accordion.is-open {
+
+}
+
+.accordion-content {
+  background-color: #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-in-out;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #242636;
+  color: #1e1e1e;
+}
+
+li::before {
+  content: attr(data-option) ". ";
+  font-weight: bold;
+}
+
+.right-answer {
+  border: 2px solid #1e8b2d;
+  background: rgb(179,233,148);
+  background: radial-gradient(circle, rgb(179, 233, 148) 100%, rgba(255,255,255,1) 0%);
+}
+
+.white-background{
+  background-color: white;
+}
+
+.wrong-answer {
+  border: 2px solid rgb(214, 62, 62);
+  background: rgb(224,0,0);
+  background: radial-gradient(circle, rgba(224,0,0,0.8421962535014006) 100%, rgba(255,255,255,0.836594012605042) 0%);
+}
+
+.buttons{
+  display:flex;
+  justify-content: space-between;
+  margin-top:20px;
+}
+
+.btn{
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.quiz-background-expanded{
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 1px 15px 1px black;
+  color:white;
+}
+
+.quiz-background {
+  background: white;
+  color: black;
+}

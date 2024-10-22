@@ -26,8 +26,8 @@ function writeJsonFile(questions, output_file) {
 
 // Main function
 function main() {
-    const output_file = "src/assets/answers.json";
-    const lines = fs.readFileSync("src/assets/answers.txt", 'utf-8');
+    const output_file = "src/assets/answers-new.json";
+    const lines = fs.readFileSync("src/assets/answers-new.txt", 'utf-8');
     const parts = lines.split(/\n(?=[IVXLCDM]+\.\s)/); // Corrected line
     const jsonResult = parts.map(part => partToJSON(part)).flat();
     writeJsonFile(jsonResult, output_file);

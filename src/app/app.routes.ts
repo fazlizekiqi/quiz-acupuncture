@@ -9,15 +9,17 @@ import { ResultPageComponent } from './pages/result-page/result-page.component';
 import { TrainPageComponent } from './pages/train-page/train-page.component';
 import { CategoriesPageComponent } from './pages/categories-page/categories-page.component';
 import { CategoryPageComponent } from './pages/category-page/category-page.component';
+import {ChooseQuestionPageComponent} from "./pages/choose-question-page/choose-question-page.component";
 
 
 export const routes: Routes = [
-  { path: '', component: HomePageComponent },
-  { path: 'train', component: TrainPageComponent },  
+  { path: '', component: ChooseQuestionPageComponent },
+  { path: 'home', component: HomePageComponent },
+  { path: 'train', component: TrainPageComponent },
   { path: 'test', component: RandomPageComponent },
   { path: 'result', component: ResultPageComponent },
   { path: 'categories', component: CategoriesPageComponent },
   { path: 'categories/:id', component: CategoryPageComponent },
-  { path: 'search', component: SearchPageComponent },  
+  { path: 'search', component: SearchPageComponent },
 ];
 

@@ -1,4 +1,54 @@
+<app-header></app-header>
+<app-divider></app-divider>
+
 <app-container>
-    <p>search-page works!</p>
+  <div class="search-input-container">
+    <input type="text" class="search-input" placeholder="Search by question number or text" (input)="onSearch($event)" />
+
+  </div>
+
+  <div *ngIf="filteredAccordionItems$ | async as groupedAccordionItems">
+    <div *ngFor="let key of accordionItemKeys$ | async">
+      <p *ngIf="getItemsForKey(key,groupedAccordionItems).length > 0" class="part">{{ formatCategory(key) }}</p>
+      <div *ngFor="let item of getItemsForKey(key, groupedAccordionItems)">
+        <ng-container *ngIf="!!item">
+          <div [ngClass]="item.expanded ? 'quiz-background-expanded' : 'quiz-background'" class="quiz">
+            <div (click)="toggleExpanded(item)" class="accordion">
+              <div class="question">
+                <p>{{ item.questionNumber }}
+                  . {{ item?.expanded ? item.question : truncateText(item.question) }}</p>
+              </div>
+              <ng-container *ngTemplateOutlet="arrowIcon"></ng-container>
+            </div>
+            <div style="margin: 10px;" *ngIf="item.expanded">
+              <ul>
+                <li [ngClass]="checkForAnswer('A', item)" *ngIf="!!item?.A" data-option="A">{{ item?.A }}</li>
+                <li [ngClass]="checkForAnswer('B', item)" *ngIf="!!item?.B" data-option="B">{{ item?.B }}</li>
+                <li [ngClass]="checkForAnswer('C', item)" *ngIf="!!item?.C" data-option="C">{{ item?.C }}</li>
+                <li [ngClass]="checkForAnswer('D', item)" *ngIf="!!item?.D" data-option="D">{{ item?.D }}</li>
+              </ul>
+            </div>
+          </div>
+        </ng-container>
+      </div>
+    </div>
+  </div>
 
 </app-container>
+
+<app-divider></app-divider>
+<app-footer></app-footer>
+
+<ng-template #arrowIcon>
+  <svg width="32px" height="32px" viewBox="-1.7 -1.7 20.40 20.40" version="1.1"
+       xmlns="http://www.w3.org/2000/svg"
+       xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" stroke="#000000" stroke-width="0.357"
+       transform="rotate(0)">
+    <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+      <path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z"
+            fill="#000000"></path>
+    </g>
+  </svg>
+</ng-template>

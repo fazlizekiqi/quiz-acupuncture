@@ -1,6 +1,7 @@
+<p class="question-p">{{questionsType}}</p>
 <app-container>
-    <div *ngIf="(dataLoaded$ | async) ">
-        <router-outlet />
-    </div>
-    <app-loading-spinner *ngIf="!(dataLoaded$ | async) "></app-loading-spinner>
+
+  <router-outlet/>
+
+
 </app-container>

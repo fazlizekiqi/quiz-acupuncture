@@ -1,3 +1,17 @@
+/* src/app/app.component.scss */
+.question-p {
+
+
+  background-color: #f0f0f0;
+  color: #333;
+
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  z-index: 1000;
+}
 :host {
     --bright-blue: oklch(51.01% 0.274 263.83);
     --electric-violet: oklch(53.18% 0.28 296.97);
@@ -26,9 +40,8 @@
       Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
       "Segoe UI Symbol";
     box-sizing: border-box;
-    
+
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
 
-  

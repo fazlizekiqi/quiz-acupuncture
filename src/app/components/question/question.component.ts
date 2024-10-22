@@ -48,16 +48,30 @@ export class QuestionComponent {
   shuffleAlternatives() {
     const labels = ['A', 'B', 'C', 'D'];
 
-    const shuffledLabels = labels.sort(() => Math.random() - 0.5);
     const alternatives = [
-      { label: 'A', value: this.question?.A ?? '', fakeLabel: shuffledLabels[0] },
-      { label: 'B', value: this.question?.B ?? '', fakeLabel: shuffledLabels[1] },
-      { label: 'C', value: this.question?.C ?? '', fakeLabel: shuffledLabels[2] },
-      { label: 'D', value: this.question?.D ?? '', fakeLabel: shuffledLabels[3] }
-    ].sort((a, b) => a.fakeLabel > b.fakeLabel ? 1 : -1);
-    this.alternatives = alternatives;
-    return alternatives;
+      { label: 'A', value: this.question?.A ?? '' },
+      { label: 'B', value: this.question?.B ?? '' },
+      { label: 'C', value: this.question?.C ?? '' },
+      { label: 'D', value: this.question?.D ?? '' }
+    ].filter(alternative => alternative.value); // Filter out alternatives with empty values
+
+    // Shuffle the remaining alternatives
+    const shuffledAlternatives = alternatives.sort(() => Math.random() - 0.5);
+
+    // Get the number of valid alternatives to determine the labels
+    const validCount = shuffledAlternatives.length;
+
+    // Map the shuffled alternatives to include only as many labels as there are valid alternatives
+    const finalAlternatives = shuffledAlternatives.map((alternative, index) => ({
+      ...alternative,
+      fakeLabel: labels[index] // Assign label based on the index
+    })).slice(0, validCount); // Ensure we only return as many alternatives as we have
+
+    // Return the final alternatives
+    this.alternatives = finalAlternatives;
+    return finalAlternatives;
   }
+
 
   @Input()
   public set answeredQuestion(selectedAnswer: string) {
@@ -111,4 +125,19 @@ export class QuestionComponent {
   }
 
 
+  getFormattedPart(otherPart: string | undefined) {
+    if(otherPart){
+      const infoMatch = otherPart.match(/info::(.*?)::info/);
+      let extractedInfo = null;
+
+      // If a match is found, extract it and remove from otherPart
+      if (infoMatch) {
+        extractedInfo = infoMatch[1].trim(); // Get the text inside
+        // Remove the info text from otherPart
+        otherPart = otherPart.replace(infoMatch[0], '').trim();
+        return otherPart
+      }
+    }
+    return otherPart;
+  }
 }

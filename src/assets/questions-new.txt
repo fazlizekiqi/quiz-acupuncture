@@ -826,7 +826,7 @@ eftermiddagarna, vilket symtom avses?
 A. Smärtor i ländryggen.
 B. Huvudvärk.
 C. Feber.
-D Magsmärtor
+D. Magsmärtor
 141. Vid tomhet yang i njurarna finner man att puls och tunga har följande karaktär och utseende.
 A. Slipprig/glidande puls och vit beläggning på tungan.
 B. Tom, djup och långsam puls, blek och vattnig tunga.
@@ -1055,7 +1055,7 @@ A. Yin och yang, inre och yttre, fullhet och tomhet, värme och hetta.
 B. Yin och yang, inre och yttre, fullhet och tomhet, värme och kyla.
 C. Yin och yang, inne och ute, fullhet och tomhet, värme och kyla.
 D. Yin och yang, inre och yttre, höger och vänster, värme och kyla.
-173. Vad innebär det att man inspekterar shen ( 神 )?
+173. Vad innebär det att man inspekterar hen ( 神 )?
 A. Att man ser patienten i ögonen och ser sjukdomarna.
 B. Att man ser på hela patientens utstrålning, klarhet i responsen på tal och övrig kommunikation, pulsens och
 tungans vitalitet.
@@ -1441,7 +1441,7 @@ B. Rygg, skuldror och inre hålrum
 C. Alternativ frossa/ feber
 D. Midjelinjens smärtor
 214. Vilken extraordinär meridian styr över rytmen hos fertila kvinnor?
-A, Ren mai
+A. Ren mai
 B. Chong mai
 C. Du mai
 D. Yin qiao
@@ -1462,50 +1462,48 @@ A. He-punkten
 B. Jing-källpunkten
 C. Ying-bäck
 D. Luo-punkten
-
-
-VII. #(7.2 INDIVIDUELLA AKUPUNKTURPUNKTER - Frågorna är baserade på 146 reguljära punkter och 26 extrapunkter. info::
-Punkter på lungans meridian, handens tai yin
+VII. #(7.2 INDIVIDUELLA AKUPUNKTURPUNKTER) - Frågorna är baserade på 146 reguljära punkter och 26 extrapunkter. info::
+Punkter på lungans meridian, handens tai yin.
 Zhongfu (Lu 1), Chize (Lu5), Kongzui (Lu 6), Lieque (Lu 7), Taiyuan (Lu9), Yuji (Lu 10) Shaoshang (Li 20)
-Punkter på tjocktarmens meridian, handens yang ming
+Punkter på tjocktarmens meridian, handens yang ming.
 Shangyang (Li 1), Hegu (Li 4), Pianli (Li 6), Shousanli (Li 10), Quchi (Li 11), Jianyu (Li 15), Yingxiang (Li 20).
-Punkter på magens meridian, fotens yang ming
+Punkter på magens meridian, fotens yang ming.
 Chengqi (St 1), Sibai (St 2), Jiache (St 6), Xiaguan (St 7), Touwei (St 8), Liangmen (St 21), Tianshu (St 25),
 Shuidao (St 28), Guilai (St 29), Qichong (St 30), Biguan (St 31), Liangqiu (St 34), Zusanli (St 36) , Shangjuxu (St
 37), Tiaokou (St 38), Xiajuxu (St 39), Fenglong (St 40), Xiangu (St 43), Neiting (St 44), Lidui (St 45).
-Punkter på mjältens meridian, fotens tai yin
+Punkter på mjältens meridian, fotens tai yin.
 Yinbai (Sp 1), Taibai (Sp 3), Gongsun (Sp 4), Shangqiu (Sp 5), Sanyinjiao
 (Sp 6), Diji (Sp 8), Yinlingquan (Sp 9), Xuehai (Sp 10), Daheng (Sp 15).
-Punkter på hjärtats meridian, handens shao yin
+Punkter på hjärtats meridian, handens shao yin.
 Shaohai (Ht 3), Tongli (Ht 5), Yinxi (Ht 6), Shenmen (Ht 7).
-Punkter på tunntarmens meridian, handens tai yang
+Punkter på tunntarmens meridian, handens tai yang.
 Shaoze (Si 1), Houxi (Si 3), Yanglao (Si 6), Naoshu (Si 10) , Tianzong (Si 11) , Bingfeng (Si 12), Tinggong (Si 19).
-Punkter på urinblåsans meridian, fotens tai yang
+Punkter på urinblåsans meridian, fotens tai yang.
 Jingming (Bl 1), Zanzhu (Bl 2), Tongtian (Bl 7), Tianzhu (Bl 10), Dashu (Bl 11), Fengmen (Bl 12), Feishu (Bl 13),
 Jueyinshu (Bl 14), Xinshu (Bl 15), Geshu (Bl 17), Ganshu (Bl 18), Danshu (Bl 19), Pishu (Bl 20), Weishu (Bl 21),
 Sanjiaoshu (Bl 22), Shenshu (Bl 23), Dachangshu (Bl 25), Xiaochangshu (Bl 27), Pangguangshu (Bl 28), Ciliao (Bl
 32), Weiyang (Bl 39), Weizhong (Bl 40), Gaohuangshu (Bl 43), Zhishi (Bl 52), Zhibian (Bl 54), Chengshan (Bl 57),
 Kunlun (Bl 60), Shenmai (Bl 62), Zhiyin (Bl 67).
-Punkter på njurarnas meridian, fotens shao yin
+Punkter på njurarnas meridian, fotens shao yin.
 Yongquan (Ki 1), Taixi (Ki 3), Zhaohai (Ki 6), Fuliu (Ki 7), Yingu (Ki 10), Shufu (Ki 27).
-Punkter på Pc-meridianen, handens jue yin
+Punkter på Pc-meridianen, handens jue yin.
 Quze (Pc 3), Jianshi (Pc 5), Neiguan (Pc 6), Daling (Pc 7), Laogong (Pc 8).
-Punkter på Te-meridianen, handens shao yang
+Punkter på Te-meridianen, handens shao yang.
 Guanchong (Te 1), Handens-Zhongzhu (Te 3), Waiguan (Te 5) , Zhigou (Te 6), Tianjing (Te 10) , Jianliao (Te 14),
 Yifeng (Te 17), Ermen (Te 21).
-Punkter på gallblåsans meridian, fotens shao yang
+Punkter på gallblåsans meridian, fotens shao yang.
 Tongziliao (Gb 1), Tinghui (Gb 2), Yangbai (Gb 14), Fengchi (Gb.20), Jianjing (Gb 21), Riyue (Gb 24), Jingmen
 (Gb 25), Daimai (Gb 26), Huantiao (Gb 30), Yanglingquan (Gb 34), Xuanzhong (Gb 39), Qiuxu (Gb 40),
 Fotens-Linqi (Gb 41), Xiaxi (Gb 43).
-Punkter på leverns meridian, fotens jue yin
+Punkter på leverns meridian, fotens jue yin.
 Dadun (Lr 1), Xingjian (Lr 2), Taichong (Lr 3), Ququan (Lr 8), Zhangmen (Lr 13), Qimen (Lr 14)
-Punkter på Du mai
+Punkter på Du mai.
 Yaoyangguan (Du 3), Mingmen (Du 4), Dazhui (Du 14), Yamen (Du 15), Fengfu (Du 16), Baihui (Du 20),
 Shenting (Du 24), Renzhong (Du 26).
-Punkter på Ren mai
+Punkter på Ren mai.
 Zhongji (Ren 3), Guanyuan (Ren 4), Shimen (Ren 5), Qihai (Ren 6) , Shenque (Ren 8), Shuifen (Ren 9),
 Zhongwan (Ren 12) , Shangwan (Ren 13) , Tanzhong (Ren 17) , Tiantu (Ren 22) , Lianquan (Ren 23).
-EXTRAPUNKTER
+EXTRAPUNKTER.
 Sishencong (M-HN-1), Yintang (M-HN-3), Yuyao (M-HN-6), Taiyang (M-HN-9), Erjian (M- HN-10), Anmian
 (N-HN-54), Jinjin Yuye (M-HN-20), Dingchuan (M-BW-1), Weiguanxiashu (M-BW-12), Yaoyan (M-BW-24),
 Huatuo Jiaji (M-BW-25), Zigong (M-CA-18), Titou (N-CA- 4), Shixuan (M-UE-1), Sifeng (M-UE-9), Baxie
@@ -2047,7 +2045,7 @@ yrsel, huvudvärk, hosta och andnöd, insomnia, mani och galenskap mm. Men var l
 vilka egenskaper besitter den?
 A. Mitt under foten mellan tredje och fjärde metatarsalbenet, två tredjedelar från hälen i riktning mot tårna.
 Den är en jing-flod-punkt på fotens shao yin.
-B, Mitt under foten mellan andra och tredje metatarsalbenet, två tredjedelar från hälen i riktning mot tårna.
+B. Mitt under foten mellan andra och tredje metatarsalbenet, två tredjedelar från hälen i riktning mot tårna.
 Den är en jing-bäck-punkt på fotens shao yang.
 C. Mitt under foten mellan andra och tredje metatarsalbenet, två tredjedelar från hälen i riktning mot tårna.
 Den är en jing-käll-punkt på fotens shao yin.
@@ -2602,14 +2600,13 @@ A. Åtta tår.
 B. Åtta vindar.
 C. Åtta nålar.
 D. Åtta akupunkturpunkter.
-VII. METODER FÖR VAL AV PUNKTER
+VIII. METODER FÖR VAL AV PUNKTER
 384. Val av lokala, närliggande och distala punkter är en viktig princip när man väljer punkter.
 Lisa tog sin dagliga joggingrunda och vrickade foten. Det var inte första gången hon trampade snett. Hon
 känner sig trött och utarbetad. Vilket alternativ är riktigt?
 A. Lokala punkter är ashi-punkter, närliggande punkter är Lr 5, Sp 6 och Pc 6. Distala punkter är Gb 34 och
 St 36.
-B. Lokala punkter är Ki 3, Bl 60, St 41, Gb 40, närliggande Ki 7, Sp 6 och Pc 6. Distala punkter är Sp 8 och St
-36.
+B. Lokala punkter är Ki 3, Bl 60, St 41, Gb 40, närliggande Ki 7, Sp 6 och Pc 6. Distala punkter är Sp 8 och St 36.
 C. Lokala punkter är ashi-punkter, närliggande är Gb 41, Te 5 och Sp 6. Distala punkter är Gb 34 och Lr 8.
 D. Lokala punkter är Ki 3, Bl 60, St 41 och Gb 40, närliggande punkter är Ki 7 och Sp 6. Distala punkter är Gb 34
 och St 36.

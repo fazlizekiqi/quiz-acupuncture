@@ -8,9 +8,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  transform: rotate(140deg);
+  transform: rotateX(3.142rad);
 }
 
+
+#yin-yang {
+  transform: rotate(0deg);
+}
 
 @keyframes moveCircle {
   0% {
@@ -19,36 +23,46 @@
 
   50% {
     transform: translateX(0);
-    /* Move to the left */
   }
 
   60% {
     transform: translateX(-8.75em);
-    /* Pause briefly */
   }
 
-  80% {
+  70% {
     transform: translateX(-8.75em);
-    /* Pause briefly */
+  }
+
+  90% {
+    transform: translateX(0);
+
   }
 
   100% {
     transform: translateX(0);
-    /* Move back to the original position */
   }
 }
 
 @keyframes spinSvg {
   0% {
-    transform: rotate(0deg);
+    transform: rotate(90deg);
+  }
+
+  30% {
+    transform: rotate(-360deg);
   }
 
   50% {
-    transform: rotate(360deg);
+    transform: rotate(-360deg);
   }
 
+  80% {
+    transform: rotate(90deg);
+  }
+
+
   100% {
-    transform: rotate(360deg);
+    transform: rotate(90deg);
   }
 }
 
