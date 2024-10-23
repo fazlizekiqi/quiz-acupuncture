@@ -8,8 +8,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "preDeploy": "ng build --output-path=dist/quiz-acupuncture --base-href '/quiz-acupuncture/'",
-    "deploy": " angular-cli-ghpages --dir=dist/quiz-acupuncture"
+    "preDeploy": "ng build --base-href https://fazlizekiqi.github.io/quiz-acupuncture/",
+    "deploy": "ng deploy --base-href=/quiz-acupuncture/"
   },
   "private": true,
   "dependencies": {
