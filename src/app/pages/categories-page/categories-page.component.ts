@@ -108,7 +108,7 @@ export class CategoriesPageComponent {
   }
 
   public goToHomePage() {
-    this.router.navigate([''])
+    this.router.navigate(['/home'])
   }
 
   public onInfoButtonClick(event: MouseEvent, infoText: string  | null ): void {

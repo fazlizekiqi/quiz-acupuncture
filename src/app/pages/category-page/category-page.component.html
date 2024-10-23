@@ -61,7 +61,7 @@
     <div class="content">
 
         <div class="result-summary">
-    
+
             <div class="dot-container">
                 <p>{{ getRightAnswers() | async }}</p>
                 <div class="yin-yang">
@@ -76,7 +76,7 @@
                         </g>
                     </svg>
                 </div>
-    
+
                 <p>{{ getWrongAnswers() | async }}</p>
                 <svg id="yin-yang" fill="red" height="20px" width="20px" version="1.1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 296.085 296.085" xml:space="preserve">
@@ -91,11 +91,14 @@
         </div>
 
         <p class="result-message">Congratulations! You have completed: {{unfilteredQuestions[0]?.part}}.</p>
-        
+
 
         <div class="buttons">
-            <button class="button">View Result (under development )</button>
+            <button class="button" (click)="viewResult()">View Result</button>
             <button (click)="resetPart()" class="button"> Reset </button>
         </div>
     </div>
 </div>
+
+<app-loading-spinner *ngIf="showSpinner$.pipe() | async"></app-loading-spinner>
+

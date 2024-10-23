@@ -85,12 +85,12 @@
 }
 
 div.accordion.is-open:after {
-  
+
 }
 
 div.accordion:hover,
 div.accordion.is-open {
- 
+
 }
 
 .accordion-content {
@@ -144,6 +144,7 @@ li::before {
 }
 
 .btn{
+  width: 100%;
   background-color: #1e1e1e;
     color: #ffffff;
     padding: 10px 20px;

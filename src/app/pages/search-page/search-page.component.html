@@ -1,11 +1,10 @@
-<app-header></app-header>
-<app-divider></app-divider>
-
+<app-header [goBackDestination]="'/home'"></app-header>
 <app-container>
   <div class="search-input-container">
     <input type="text" class="search-input" placeholder="Search by question number or text" (input)="onSearch($event)" />
 
   </div>
+  <app-divider></app-divider>
 
   <div *ngIf="filteredAccordionItems$ | async as groupedAccordionItems">
     <div *ngFor="let key of accordionItemKeys$ | async">
@@ -35,9 +34,6 @@
   </div>
 
 </app-container>
-
-<app-divider></app-divider>
-<app-footer></app-footer>
 
 <ng-template #arrowIcon>
   <svg width="32px" height="32px" viewBox="-1.7 -1.7 20.40 20.40" version="1.1"

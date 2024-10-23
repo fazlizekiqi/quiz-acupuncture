@@ -21,9 +21,6 @@ import {FooterComponent} from "./components/footer/footer.component";
 export class AppComponent{
   title = 'Quiz Acupunture';
 
-  choosingQuestions: boolean  = true;
-  public questionsType: string = ''
-
 
   constructor(
     public readonly router: Router,

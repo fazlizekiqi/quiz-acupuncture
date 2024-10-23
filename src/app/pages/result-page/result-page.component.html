@@ -1,4 +1,8 @@
 <!-- result-page.component.html -->
+
+<app-header [goBackDestination]="'/categories'"></app-header>
+<app-divider></app-divider>
+<app-container></app-container>
 <div class="result-summary">
   <div class="dot-container">
     <p>{{ getRightAnswerCount() | async}}</p>
@@ -31,7 +35,7 @@
 
 <div class="result-container" *ngFor="let key of accordionItemKeys$ | async">
   <p class="part">{{ key }}</p>
-  
+
   <div *ngIf="groupedAccordionItems$ | async as groupedAccordionItems">
     <div *ngFor="let item of getItemsForKey(key, groupedAccordionItems)">
       <ng-container *ngIf="!!item">
@@ -74,5 +78,5 @@
 
 <div class="buttons">
   <button (click)="navigateToHomePage()" class="btn">Go to Home Page</button>
-  <button (click)="navigateToRandomPage()" class="btn">Try again</button>
+  <!-- <button (click)="navigateToRandomPage()" class="btn">Try again</button> -->
 </div>

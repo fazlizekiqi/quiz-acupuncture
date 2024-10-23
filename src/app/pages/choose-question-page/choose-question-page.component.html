@@ -1,8 +1,6 @@
 <app-header></app-header>
 
 <app-divider></app-divider>
-
-<p >{{this.questionsType}}</p>
 <div class="landing-page" *ngIf="choosingQuestions ">
 
   <p class="info-text">
@@ -22,3 +20,4 @@
 
 <app-divider></app-divider>
 <app-footer></app-footer>
+<app-loading-spinner *ngIf="(dataLoaded$ | async)"></app-loading-spinner>

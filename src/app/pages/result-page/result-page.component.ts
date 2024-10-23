@@ -5,12 +5,15 @@ import { QuizQuestion } from '../../domain/models';
 import { AccordionDirective } from '../../directives/accordion.directive';
 import { map, of, tap } from 'rxjs';
 import { Router } from '@angular/router';
+import {HeaderComponent} from "../../components/header/header.component";
+import {ContainerComponent} from "../../components/container/container.component";
+import {DividerComponent} from "../../components/divider/divider.component";
 
 
 @Component({
   selector: 'app-result-page',
   standalone: true,
-  imports: [NgFor, AsyncPipe, AccordionDirective, CommonModule],
+  imports: [NgFor, AsyncPipe, AccordionDirective, CommonModule, HeaderComponent, ContainerComponent, DividerComponent],
   templateUrl: './result-page.component.html',
   styleUrl: './result-page.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -24,7 +27,7 @@ export class ResultPageComponent {
   constructor(
     public readonly resultService: ResultService,
     public readonly router: Router
-    
+
     ) {
     this.groupedAccordionItems$ = this.resultService.getData().pipe(
       map(val => {
