@@ -37,7 +37,7 @@ export class LoadDataService {
 
   public get dataLoaded(){
     return combineLatest([this.questionsLoaded$.pipe(), this.answerLoaded$.pipe()]).pipe(
-      delay(4000),
+      delay(2000),
       map(([questionLoaded, answerLoaded]) => questionLoaded && answerLoaded),
     );
   }

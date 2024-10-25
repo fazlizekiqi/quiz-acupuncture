@@ -44,7 +44,7 @@ export class ChooseQuestionPageComponent{
   navigateTo(path: string): void {
     this.dataLoaded$ = of(true)
     this.dataLoaded$.pipe(
-      delay(4000),
+      delay(1000),
       map((val)=> false)
     ).subscribe(()=> {
       this.choosingQuestions = false;
