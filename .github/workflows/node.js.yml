@@ -30,5 +30,7 @@ jobs:
     - run: npm run preDeploy
     - run: git config --global user.email "fazlizekiqi1@hotmail.com"
     - run: git config --global user.name "Fazli Zekiqi"
+      env:  
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: npm run deploy
     
