@@ -5,26 +5,25 @@
 <div>
     <div class="pill-group">
 
-        <a class="pill" [routerLink]="['/test']">
-            <span>Start a test with 20 questions</span>
-        </a>
+      <a class="pill" (click)="navigate('/test')">
+        <span>Start a test with 20 questions</span>
+      </a>
 
-        <a class="pill" [routerLink]="['/categories']" >
-            <span>Train by categories</span>
-        </a>
+      <a class="pill" (click)="navigate('/categories')">
+        <span>Train by categories</span>
+      </a>
 
-        <a class="pill" [routerLink]="['/train']" [queryParams]="{ random: false }">
-            <span>Step-by-Step Practice</span>
-        </a>
+      <a class="pill" (click)="navigate('/train', { random: false })">
+        <span>Step-by-Step Practice</span>
+      </a>
 
+      <a class="pill" (click)="navigate('/train', { random: true })">
+        <span>Random Questions</span>
+      </a>
 
-        <a class="pill" [routerLink]="['/train']" [queryParams]="{ random: true }">
-            <span>Random Questions</span>
-        </a>
-
-        <a class="pill" [routerLink]="['/search']">
-            <span>Search questions</span>
-        </a>
+      <a class="pill" (click)="navigate('/search')">
+        <span>Search questions</span>
+      </a>
 
     </div>
 </div>

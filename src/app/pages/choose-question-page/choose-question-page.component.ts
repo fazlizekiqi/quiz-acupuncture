@@ -7,6 +7,8 @@ import {FooterComponent} from "../../components/footer/footer.component";
 import {AsyncPipe, NgIf} from "@angular/common";
 import {delay, map, Observable, of} from "rxjs";
 import {LoadingSpinnerComponent} from "../../components/loading-spinner/loading-spinner.component";
+import {AnalyticsService} from "../../services/analytics.service";
+import {Events} from "../../events";
 
 @Component({
   selector: 'app-choose-question-page',
@@ -30,7 +32,9 @@ export class ChooseQuestionPageComponent{
   constructor(
     public readonly router: Router,
     public readonly loadData: LoadDataService,
+    public readonly  analyticsService: AnalyticsService,
   ) {
+    analyticsService.trackEvent(Events.APPLICATION_LOADED, "Application loaded",Events.APPLICATION_LOADED)
     const previousPath = localStorage.getItem('lastPath'); // Retrieve prev
     this.dataLoaded$ = of(false)
     if(previousPath){
@@ -42,6 +46,7 @@ export class ChooseQuestionPageComponent{
   }
 
   navigateTo(path: string): void {
+    this.analyticsService.trackEvent(Events.CHOOSE_QUESTION_PAGE, path, path + " page is chosen")
     this.dataLoaded$ = of(true)
     this.dataLoaded$.pipe(
       delay(1000),

@@ -10,6 +10,8 @@ import {QuizQuestion} from '../../domain/models';
 import {FooterComponent} from "../../components/footer/footer.component";
 import {LoadDataService} from "../../services/load-data.service";
 import {FormsModule} from "@angular/forms";
+import {AnalyticsService} from "../../services/analytics.service";
+import {Events} from "../../events";
 
 @Component({
   selector: 'app-search-page',
@@ -25,7 +27,11 @@ export class SearchPageComponent {
   public accordionItemKeys$: Observable<string[]>;
   private searchQuery$ = new BehaviorSubject<string>(''); // To store the search query
 
-  constructor(private readonly loadDataService: LoadDataService, private cdr: ChangeDetectorRef) {
+  constructor(
+    private readonly loadDataService: LoadDataService,
+    private cdr: ChangeDetectorRef,
+    private readonly  analyticsService: AnalyticsService
+  ) {
     this.groupedAccordionItems$ = this.loadDataService.questionWithAnswers.pipe(
       map(val => {
         return val.reduce((acc: GroupedAccordionItems, obj) => {
@@ -104,6 +110,7 @@ export class SearchPageComponent {
 
   onSearch($event: Event) {
     const target = $event.target as HTMLInputElement;
+    this.analyticsService.trackEvent(Events.SEARCH_INPUT, target.value, Events.SEARCH_INPUT)
     this.searchQuery$.next(target.value); // Update the search query
   }
 }

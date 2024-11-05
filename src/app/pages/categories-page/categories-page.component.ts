@@ -5,6 +5,8 @@ import {LoadDataService} from '../../services/load-data.service';
 import {Observable, map} from 'rxjs';
 import {AsyncPipe, NgFor, NgIf} from '@angular/common';
 import {DomSanitizer, SafeHtml} from "@angular/platform-browser";
+import {AnalyticsService} from "../../services/analytics.service";
+import {Events} from "../../events";
 
 @Component({
   selector: 'app-categories-page',
@@ -23,7 +25,8 @@ export class CategoriesPageComponent {
   constructor(
     public readonly loadData: LoadDataService,
     private sanitizer: DomSanitizer,
-    public readonly router: Router
+    public readonly router: Router,
+    private readonly  analyticsService :AnalyticsService
   ) {
     this.categories$ = loadData.questions.pipe(
       map(questions => Array.from(new Set(questions.map(question => question.part)))),
@@ -36,6 +39,8 @@ export class CategoriesPageComponent {
     const match = route.match(regex);
     const category = match ? match[0] : '';
     const definition = match ? match.input : ''
+    this.analyticsService.trackEvent(Events.CATEGORY, category, definition ?? '' )
+
     this.router.navigate(['/categories', category], {queryParams: {definition}})
   }
 

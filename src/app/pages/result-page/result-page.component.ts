@@ -3,11 +3,13 @@ import { ResultService } from '../../services/result.service';
 import { AsyncPipe, CommonModule, NgFor } from '@angular/common';
 import { QuizQuestion } from '../../domain/models';
 import { AccordionDirective } from '../../directives/accordion.directive';
-import { map, of, tap } from 'rxjs';
+import {forkJoin, map, of, tap} from 'rxjs';
 import { Router } from '@angular/router';
 import {HeaderComponent} from "../../components/header/header.component";
 import {ContainerComponent} from "../../components/container/container.component";
 import {DividerComponent} from "../../components/divider/divider.component";
+import {AnalyticsService} from "../../services/analytics.service";
+import {Events} from "../../events";
 
 
 @Component({
@@ -21,12 +23,13 @@ import {DividerComponent} from "../../components/divider/divider.component";
 })
 export class ResultPageComponent {
 
-  public groupedAccordionItems$: any;;
+  public groupedAccordionItems$: any;
   public accordionItemKeys$: any;
 
   constructor(
     public readonly resultService: ResultService,
-    public readonly router: Router
+    public readonly router: Router,
+    private readonly  analyticsService :AnalyticsService
 
     ) {
     this.groupedAccordionItems$ = this.resultService.getData().pipe(
@@ -121,6 +124,16 @@ export class ResultPageComponent {
 
   public navigateToRandomPage(){
     this.router.navigate(['test'])
+  }
+
+  public sendAnalyticsEvent() {
+    forkJoin({
+      rightCount: this.getRightAnswerCount(),
+      wrongCount: this.getWrongAnswerCount()
+    }).subscribe(({ rightCount, wrongCount }) => {
+      const message = `Right: ${rightCount}, Wrong: ${wrongCount}`;
+      this.analyticsService.trackEvent(Events.RESULT, message, Events.RESULT );
+    });
   }
 }
 
