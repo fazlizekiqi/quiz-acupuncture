@@ -23,9 +23,6 @@ import {Events} from "./events";
 export class AppComponent implements OnInit{
   title = 'Quiz Acupunture';
 
-  public userAgent: string = '';
-  public  isMobile: boolean= '';
-  public  browser: string= '';
 
   constructor(
     public readonly router: Router,
@@ -37,24 +34,25 @@ export class AppComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    this.userAgent = navigator.userAgent;
-
+     const userAgent = navigator.userAgent;
+    let browser = ''
     // Simple check for mobile devices
-    this.isMobile = /iPhone|iPad|iPod|Android/i.test(this.userAgent);
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(userAgent);
 
     // Basic browser detection
-    if (this.userAgent.includes('Chrome')) {
-      this.browser = 'Chrome';
-    } else if (this.userAgent.includes('Safari')) {
-      this.browser = 'Safari';
-    } else if (this.userAgent.includes('Firefox')) {
-      this.browser = 'Firefox';
+    if (userAgent.includes('Chrome')) {
+      browser = 'Chrome';
+    } else if (userAgent.includes('Safari')) {
+      browser = 'Safari';
+    } else if (userAgent.includes('Firefox')) {
+      browser = 'Firefox';
     } else {
-      this.browser = 'Other';
+      browser = 'Other';
     }
 
-    let message = `Mobile: ${this.isMobile} Browser: ${this.browser}`;
-      this.analyticsService.trackEvent(Events.DEVICE, message, this.isMobile )
+    let string = isMobile ?  'MOBILE': 'NON_MOBILE';
+    let message = `Mobile: ${string } Browser: ${browser}`;
+      this.analyticsService.trackEvent(Events.DEVICE, message, string )
   }
 
 }
