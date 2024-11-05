@@ -26,12 +26,22 @@ export class ResultPageComponent {
   public groupedAccordionItems$: any;
   public accordionItemKeys$: any;
 
+  public truncateText(text: string): string {
+    const isLaptop = window.innerWidth >= 768; // Example: Laptops typically have wider screens (> 768px)
+
+    const adjustedMaxLength = isLaptop ? 125 : 50;
+
+    return text.length > adjustedMaxLength
+      ? text.substring(0, adjustedMaxLength) + '...'
+      : text;
+  }
+
   constructor(
     public readonly resultService: ResultService,
     public readonly router: Router,
     private readonly  analyticsService :AnalyticsService
 
-    ) {
+  ) {
     this.groupedAccordionItems$ = this.resultService.getData().pipe(
       map(val => {
         return val.reduce((acc: GroupedAccordionItems, obj) => {
@@ -53,16 +63,8 @@ export class ResultPageComponent {
       map((obj: QuizQuestion) => Object.keys(obj))
     )
 
-  }
+    this.sendAnalyticsEvent();
 
-  public truncateText(text: string): string {
-    const isLaptop = window.innerWidth >= 768; // Example: Laptops typically have wider screens (> 768px)
-
-    const adjustedMaxLength = isLaptop ? 125 : 50;
-
-    return text.length > adjustedMaxLength
-      ? text.substring(0, adjustedMaxLength) + '...'
-      : text;
   }
 
   public checkForAnswer(option: string, item: QuizQuestion) {

@@ -5,5 +5,6 @@ export enum Events {
   CATEGORY="CATEGORY",
   RESULT="RESULT",
   SEARCH_INPUT="SEARCH_INPUT",
+  DEVICE = "DEVICE",
 
 }
